@@ -1,3 +1,3 @@
 h1. harshadura.github.com
 
-Powered by: "Jekyll":http://github.com/mojombo/jekyll, With love hosted at Github.
+Powered by: "Jekyll":http://github.com/mojombo/jekyll, with love hosted at Github.
