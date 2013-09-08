@@ -28,7 +28,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	color: #242428;
-	background-color: white;
+	background-color: black;
 	margin: 0;
 	line-height: 1.8em;
 	font-weight: 200;
@@ -124,7 +124,7 @@ p.intro {
 	font-family: 'Yanone Kaffeesatz', "Helvetica Neue", Helvetica, Arial, sans-serif ;
 	font-size: 38px;
 	font-weight: 400;
-	color: #323232;
+	color: #ffffff;
 	margin-bottom: 30px;
 }
 
